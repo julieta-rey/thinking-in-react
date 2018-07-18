@@ -7,3 +7,7 @@ body {
 /* * {
   border: 1px solid black;
 } */
+
+.non-stocked {
+  color: red;
+}
